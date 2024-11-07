@@ -1,5 +1,3 @@
-
-
 ### Hi there 👋, my name is Rashed Alaqrabawy
 #### Full stack developer
 ![Full stack developer](https://tse2.mm.bing.net/th?id=OIP.UhnZs_RgbtVTR56Rsrm40gHaEE&pid=Api&P=0&h=450)
@@ -9,7 +7,11 @@ I'm a full-stack developer skilled in front-end technologies like HTML, CSS, and
 
 Skills: Laravel /PHP/ REACT / JS / HTML / CSS/ Figma
 
-- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rashed-ux920)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/rashed-alaqrabawy-28899b257/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100070927364793)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/rashed.aqrabawy//)  
+
+
 
 
 
