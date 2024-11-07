@@ -5,6 +5,7 @@
 
 I'm a full-stack developer skilled in front-end technologies like HTML, CSS, and JavaScript, and back-end development with PHP and Laravel. With 10 completed projects and six months of experience, I'm excited to take on challenging projects and work collaboratively in a team environment.
 
+![Rashed-ux920's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashed-ux920&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 Skills: Laravel /PHP/ REACT / JS / HTML / CSS/ Figma
 
 
@@ -22,7 +23,7 @@ Skills: Laravel /PHP/ REACT / JS / HTML / CSS/ Figma
 
 ![Rashed-ux920's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rashed-ux920&theme=vue-dark&hide_border=true)
 
-![Rashed-ux920's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashed-ux920&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 <!--
 **Rashed-ux920/Rashed-ux920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
