@@ -5,9 +5,10 @@
 
 I'm a full-stack developer skilled in front-end technologies like HTML, CSS, and JavaScript, and back-end development with PHP and Laravel. With 10 completed projects and six months of experience, I'm excited to take on challenging projects and work collaboratively in a team environment.
 
-![Rashed-ux920's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashed-ux920&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-Skills: Laravel /PHP/ REACT / JS / HTML / CSS/ Figma
 
+Skills: Laravel /PHP/ REACT / JS / HTML / CSS/ Figma
+[<be>]
+![Rashed-ux920's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashed-ux920&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rashed-ux920)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/rashed-alaqrabawy-28899b257/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100070927364793)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/rashed.aqrabawy//)  
