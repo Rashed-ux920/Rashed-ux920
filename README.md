@@ -7,7 +7,7 @@ I'm a full-stack developer skilled in front-end technologies like HTML, CSS, and
 
 
 Skills: Laravel /PHP/ REACT / JS / HTML / CSS/ Figma
-[<be>]
+<be>
 ![Rashed-ux920's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashed-ux920&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
