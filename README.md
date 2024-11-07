@@ -4,7 +4,8 @@
 #### Full stack developer
 ![Full stack developer](https://tse2.mm.bing.net/th?id=OIP.UhnZs_RgbtVTR56Rsrm40gHaEE&pid=Api&P=0&h=450)
 
-Rashed Alaqrabawy is a skilled full-stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end experience in PHP and Laravel. With a portfolio of 10 projects and a growing six-month background in development, Rashed is enthusiastic about tackling complex projects in collaborative environments
+
+I'm a full-stack developer skilled in front-end technologies like HTML, CSS, and JavaScript, and back-end development with PHP and Laravel. With 10 completed projects and six months of experience, I'm excited to take on challenging projects and work collaboratively in a team environment.
 
 Skills: Laravel /PHP/ REACT / JS / HTML / CSS/ Figma
 
